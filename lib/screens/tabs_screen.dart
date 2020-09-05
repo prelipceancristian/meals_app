@@ -14,7 +14,7 @@ class _TabsScreenState extends State<TabsScreen> {
       length: 2,
       child: Scaffold(
         appBar: AppBar(
-          title: Text('stinky poop'),
+          title: Text('test'),
           bottom: TabBar(
             tabs: <Widget>[
               Tab(icon: Icon(Icons.category), text: 'Categories'),
